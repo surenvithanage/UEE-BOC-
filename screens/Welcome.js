@@ -113,7 +113,7 @@ class Welcome extends Component {
               animated
               flex={false}
               key={`step-${index}`}
-              color="gray"
+              color="black"
               style={[styles.steps, { opacity }]}
             />
           )
